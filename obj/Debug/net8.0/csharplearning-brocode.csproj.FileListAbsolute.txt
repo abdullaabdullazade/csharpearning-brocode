@@ -1,0 +1,14 @@
+c:\Users\abdullaxows\Documents\csharplearning-brocode\bin\Debug\net8.0\csharplearning-brocode.exe
+C:\Users\abdullaxows\Documents\csharplearning-brocode\bin\Debug\net8.0\csharplearning-brocode.deps.json
+C:\Users\abdullaxows\Documents\csharplearning-brocode\bin\Debug\net8.0\csharplearning-brocode.runtimeconfig.json
+c:\Users\abdullaxows\Documents\csharplearning-brocode\bin\Debug\net8.0\csharplearning-brocode.dll
+c:\Users\abdullaxows\Documents\csharplearning-brocode\bin\Debug\net8.0\csharplearning-brocode.pdb
+c:\Users\abdullaxows\Documents\csharplearning-brocode\obj\Debug\net8.0\csharplearning-brocode.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\abdullaxows\Documents\csharplearning-brocode\obj\Debug\net8.0\csharplearning-brocode.AssemblyInfoInputs.cache
+c:\Users\abdullaxows\Documents\csharplearning-brocode\obj\Debug\net8.0\csharplearning-brocode.AssemblyInfo.cs
+c:\Users\abdullaxows\Documents\csharplearning-brocode\obj\Debug\net8.0\csharplearning-brocode.csproj.CoreCompileInputs.cache
+c:\Users\abdullaxows\Documents\csharplearning-brocode\obj\Debug\net8.0\csharplearning-brocode.dll
+c:\Users\abdullaxows\Documents\csharplearning-brocode\obj\Debug\net8.0\refint\csharplearning-brocode.dll
+c:\Users\abdullaxows\Documents\csharplearning-brocode\obj\Debug\net8.0\csharplearning-brocode.pdb
+C:\Users\abdullaxows\Documents\csharplearning-brocode\obj\Debug\net8.0\csharplearning-brocode.genruntimeconfig.cache
+C:\Users\abdullaxows\Documents\csharplearning-brocode\obj\Debug\net8.0\ref\csharplearning-brocode.dll
