@@ -36,6 +36,12 @@ class Variables
 
             int c = 123;
 
+            c++;
+            c--;
+            c+=2;
+            c-=2;
+            c*=2;
+            c/=2;
             double d = Convert.ToDouble(c) + 0.1;
             Console.WriteLine(d.GetType());
 
@@ -63,6 +69,7 @@ class Variables
 
             Console.WriteLine(j);
             Console.WriteLine(j.GetType());
+
 
 
 

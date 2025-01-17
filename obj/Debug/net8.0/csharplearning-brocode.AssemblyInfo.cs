@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("csharplearning-brocode")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a7a21529b5c110d07840713ab13d0e40df087b8b")]
 [assembly: System.Reflection.AssemblyProductAttribute("csharplearning-brocode")]
 [assembly: System.Reflection.AssemblyTitleAttribute("csharplearning-brocode")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

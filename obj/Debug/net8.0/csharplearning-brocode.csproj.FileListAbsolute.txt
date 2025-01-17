@@ -12,3 +12,4 @@ c:\Users\abdullaxows\Documents\csharplearning-brocode\obj\Debug\net8.0\refint\cs
 c:\Users\abdullaxows\Documents\csharplearning-brocode\obj\Debug\net8.0\csharplearning-brocode.pdb
 C:\Users\abdullaxows\Documents\csharplearning-brocode\obj\Debug\net8.0\csharplearning-brocode.genruntimeconfig.cache
 C:\Users\abdullaxows\Documents\csharplearning-brocode\obj\Debug\net8.0\ref\csharplearning-brocode.dll
+C:\Users\abdullaxows\Documents\csharplearning-brocode\obj\Debug\net8.0\csharplearning-brocode.sourcelink.json
